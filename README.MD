@@ -1,4 +1,4 @@
-#  **<h1 align="center">  Plantilla de Currículum en HTML y CSS </h1>**
+#  **<h3 align="center">  Plantilla de Currículum en HTML y CSS </h3>**
 
 ## Te invito a que veas mi curriculum en el siguiente enlace 
 
